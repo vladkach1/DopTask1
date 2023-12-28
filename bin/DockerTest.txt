@@ -1,0 +1,4 @@
+FROM dart:stable AS build
+COPY test.dart /test.dart
+RUN chmod +x /test.dart
+CMD dart /test.dart
