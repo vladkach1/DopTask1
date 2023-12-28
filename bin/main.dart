@@ -3,5 +3,5 @@ double chtoTO(double x){
 }
 
 void main(){
-  print(chtoTOwhjuhgtfuwhiuy(2));
+  print(chtoTO(2));
 }
